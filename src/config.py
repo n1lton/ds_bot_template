@@ -1,0 +1,3 @@
+PREFIX = '!'
+TOKEN = ''
+SERVER_ID = 
